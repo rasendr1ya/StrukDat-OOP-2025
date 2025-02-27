@@ -1,0 +1,1 @@
+# StrukDat-OOP-2025
